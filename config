@@ -1,0 +1,9 @@
+Host onroto
+	Hostname baseball1.onroto.com
+	User zhecht
+Host umich
+	Hostname login.engin.umich.edu
+	User zhecht
+Host TPO
+	Hostname 131.103.75.142
+	User barelyma
